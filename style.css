@@ -19,7 +19,7 @@ nav {
     list-style: none;
     display: flex;
     justify-content: center;
-    padding: 10px 5px;
+    padding: 15px 5px;
     gap:69px;
     font-family:'Poppins', sans-serif;;
 }
@@ -38,9 +38,10 @@ nav {
 
 main{
     font-family: 'Poppins', sans-serif;
-    height: 680vh;
+    height: 720vh;
     background-color: #051522;
     color: white;
+     margin-top: 10px;
     scroll-behavior:smooth;
 }
 
@@ -87,6 +88,7 @@ main{
     font-weight: bold;
     font-size: 40px;
     padding: 60px 20px;
+    margin-top: 300px;
     cursor:pointer;
     color: #b36eda;
 } 
